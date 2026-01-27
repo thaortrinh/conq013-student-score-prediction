@@ -1,0 +1,5 @@
+venv
+data/raw/train.csv
+__pycache__
+*.pyc
+notebooks/.ipynb_checkpoints
