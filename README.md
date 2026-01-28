@@ -74,5 +74,4 @@ cd notebooks
 Launch Jupyter Notebook:
 ```
 jupyter notebook
-
 ```
