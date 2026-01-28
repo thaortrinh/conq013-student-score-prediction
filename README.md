@@ -65,3 +65,14 @@ Place the file train.csv into:
 data/raw/train.csv
 ```
 
+## 3. Run code
+### 3.1. Running the Jupyter Notebook
+Navigate to the notebooks directory: 
+```
+cd notebooks
+```
+Launch Jupyter Notebook:
+```
+jupyter notebook
+
+```
