@@ -1,6 +1,5 @@
 venv
-data/raw/train.csv
-data/raw/test.csv
+data
 __pycache__
 *.pyc
 notebooks/.ipynb_checkpoints

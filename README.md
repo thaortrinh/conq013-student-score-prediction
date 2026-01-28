@@ -45,18 +45,22 @@ Create the following folder structure in the project root:
 ```
 data/
 ├── raw/
-│   └── train.csv
+├── interim/
 └── processed/
+
 ```
 **Steps:**
 
 Create a data folder in the project root.
 
-Inside data, create two subfolders:
+Inside data, create 3 subfolders:
 
 - raw/ – for original, unprocessed data
 
-- processed/ – for cleaned or transformed data
+- interim/ – for cleaned data
+
+- processed/ – for train-ready data
+
 
 Download the dataset from Kaggle.
 
