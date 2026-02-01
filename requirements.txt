@@ -10,3 +10,5 @@ notebook
 dython
 statsmodels
 lightgbm
+shap
+gradio
