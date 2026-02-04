@@ -4,8 +4,10 @@
 This project focuses on **predicting student scores** using machine learning techniques.  
 It is designed as a learning-oriented ML project, covering environment setup, data organization,
 and model training.
-<img width="928" height="392" alt="1" src="https://github.com/user-attachments/assets/9464eef3-e024-4738-b1fc-fb9571a721a5" />
-<img width="928" height="410" alt="2" src="https://github.com/user-attachments/assets/5079f72d-be0d-4f74-8d8c-0d70189aeabb" />
+
+<img width="1140" height="719" alt="image" src="https://github.com/user-attachments/assets/7c6e8ea5-bf4f-4964-8b4d-773df7567392" />
+
+<img width="1169" height="845" alt="image" src="https://github.com/user-attachments/assets/d2a2cc89-61b4-4229-80b7-493d25bcbc67" />
 
 ### Dataset
 The dataset is obtained from Kaggle:
